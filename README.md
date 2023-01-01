@@ -15,8 +15,8 @@ journey map.
 Cloth config. 
 
 HOW TO USE?
-Download the file
-extract the file
-open it and copy paste mods Into your Minecraft mod folder.(it will be located in your Minecraft folder)
-start the game and enjoy. 
-If you are getting an error, so it could be of Java or forge1.19.2
+1.Download the file
+2.extract the file
+3.open it and copy paste mods Into your Minecraft mod folder.(it will be located in your Minecraft folder)
+4.start the game and enjoy. 
+5.If you are getting an error, so it could be of Java or forge1.19.2
