@@ -5,13 +5,9 @@ furniture.
 Corpse. 
 flywheel. 
 simple 
-Simple storage network. Voice chat.
-Repurposed structure. 
+Simple storage network. Voice chat. 
 Light Mens currency. 
-Create. 
-jade
-jei
-journey map. 
+Create.  
 Cloth config. 
 
 HOW TO USE?
